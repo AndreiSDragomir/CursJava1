@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Andrei
+ *
+ */
+module curs {
+}

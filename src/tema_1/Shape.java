@@ -20,13 +20,12 @@ public class Shape{
 			calculateSquareArea();
 		}
 	
+	//constructor Circle
 	public Shape(double radius) {
 		this.radius = radius;
 	    circle_area = radius * radius * Math.PI;
 	}
 
-	//constructor Circle
-	
 	//metoda calculateSquareArea
 	public int calculateSquareArea() {
 		return lenght*lenght;
